@@ -1,0 +1,8 @@
+//
+// Created by zhougang on 2022/4/13.
+//
+
+#ifndef GSTAUDIORECORD_AUDIORECORD_H
+#define GSTAUDIORECORD_AUDIORECORD_H
+
+#endif //GSTAUDIORECORD_AUDIORECORD_H
